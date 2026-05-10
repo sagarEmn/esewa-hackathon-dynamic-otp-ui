@@ -1,4 +1,3 @@
-```markdown
 # SecureGuard: Risk-Based MPIN Security
 
 ## About
@@ -17,4 +16,3 @@ The current UI and code included in this repository are prototypes built for the
 - Suraj Thapa (Lead Dev / UI)
 - Shiva Sagar Yadav (Backend)
 - Aayam Neupane (Risk Logic)
-```
