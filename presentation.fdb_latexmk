@@ -1,9 +1,0 @@
-# Fdb version 4
-["pdflatex"] 0 "/home/pesos/hackathon/esewa/presentation.tex" "presentation.pdf" "presentation" 0 -1
-  "/home/pesos/hackathon/esewa/presentation.tex" 0 -1 0 ""
-  "presentation.aux" 0 -1 0 "pdflatex"
-  (generated)
-  "presentation.aux"
-  "presentation.log"
-  "presentation.pdf"
-  (rewritten before read)
